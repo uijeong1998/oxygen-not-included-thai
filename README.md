@@ -1,1 +1,1 @@
-# oxygen-not-included-thai
+_oxygen not included - localization projects_
